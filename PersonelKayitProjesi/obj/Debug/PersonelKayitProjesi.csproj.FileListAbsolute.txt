@@ -1,0 +1,13 @@
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\bin\Debug\PersonelKayitProjesi.exe.config
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\bin\Debug\PersonelKayitProjesi.exe
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\bin\Debug\PersonelKayitProjesi.pdb
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.csprojAssemblyReference.cache
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.Properties.Resources.resources
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.csproj.GenerateResource.cache
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.csproj.CoreCompileInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.exe
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.pdb
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.AnaForm.resources
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.FormGrafikler.resources
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.Formistatistik.resources
+C:\Users\rabia\OneDrive\Masaüstü\24.01.2020\PersonelKayitProjesi\PersonelKayitProjesi\obj\Debug\PersonelKayitProjesi.Giris.resources
